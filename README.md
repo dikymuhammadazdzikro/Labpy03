@@ -27,5 +27,19 @@
 3. Proses input user; validasi jumlah tarik (kelipatan 1000 & saldo cukup).
 4. Perbarui saldo dan ulangi sampai user keluar atau saldo habis.
 
-## Cara menjalankan
-Jalankan di terminal:
+## Hasil screenshoot
+Latihan1.py
+
+<img width="258" height="221" alt="Hasil_run_Latihan1 py" src="https://github.com/user-attachments/assets/cef465e2-8717-49b1-b4b2-2f9860dd393e" />
+
+Latihan2.py
+
+<img width="233" height="249" alt="Hasil_run_Latihan2 py" src="https://github.com/user-attachments/assets/d51b5722-a70e-4666-9aaa-5c685733316c" />
+
+Latihan3.py
+
+<img width="265" height="311" alt="Hasil_run_Latihan3 py" src="https://github.com/user-attachments/assets/c00e11e1-de1a-424d-b5ce-13987c89d8dc" />
+
+
+
+
